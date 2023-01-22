@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/AdelmoMenezes123/clean-node-api.git"
   },
-  "author": "",
+  "author": "Adelmo Menezes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AdelmoMenezes123/clean-node-api/issues"
   },
-  "homepage": "https://github.com/AdelmoMenezes123/clean-node-api#readme"
+  "homepage": "https://github.com/AdelmoMenezes123/clean-node-api#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
 }
